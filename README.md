@@ -1,16 +1,23 @@
-### Hi there 👋
+# Juanjo Aguililla (jaguililla)
 
-<!--
-**jaguililla/jaguililla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work as a JVM Back-end developer using Kotlin, Java or Groovy.
 
-Here are some ideas to get you started:
+I maintain the [Hexagon Toolkit] for writing server applications in Kotlin.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can also find me in these other sites:
+
+[Dev.to] | [LinkedIn] | [Reddit] | [Stack Overflow]
+
+[Hexagon Toolkit]: https://hexagonkt.com
+
+[Dev.to]: https://dev.to/jaguililla
+[LinkedIn]: https://www.linkedin.com/in/jaguililla
+[Reddit]: https://www.reddit.com/user/jaguililla
+[Stack Overflow]: https://stackoverflow.com/users/973418/jaguililla
+[Twitter]: https://twitter.com/jaguililla
+
+<details>
+  <summary>GitHub stats</summary>
+
+  ![github stats](https://github-readme-stats.vercel.app/api?username=jaguililla&show_icons=true)
+</details>
