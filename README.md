@@ -17,7 +17,7 @@ You can also find me in these other sites:
 [Twitter]: https://twitter.com/jaguililla
 
 <details>
-  <summary>GitHub stats</summary>
+  <summary>Stats</summary>
 
   ![github stats](https://github-readme-stats.vercel.app/api?username=jaguililla&show_icons=true)
 
