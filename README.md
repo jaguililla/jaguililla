@@ -27,7 +27,7 @@ You can also find me in these other sites:
   * I have a public key (issued to `project@hexagonkt.com`) whose fingerprint is:
     [792B D37F F598 91C4 AC6F  8D92 3B26 711D 2AEE 3721][Key]
 
-  To claim this, I am signing this public key (`gpg --armor --detach-sig hexagonkt_public.key`):
+  To claim this, I am signing this public key (with the command: `gpg --armor --detach-sig hexagonkt_public.key`):
 
   ```
   -----BEGIN PGP PUBLIC KEY BLOCK-----
