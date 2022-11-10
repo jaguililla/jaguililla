@@ -117,14 +117,18 @@ You can also find me in these other sites:
 <details>
   <summary>Stats</summary>
 
-  ![github stats](https://github-readme-stats.vercel.app/api?username=jaguililla&show_icons=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaguililla&show_icons=true&theme=dark#gh-dark-mode-only)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaguililla&show_icons=true&theme=default#gh-light-mode-only)
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hexagonkt&show_icons=true&theme=dark#gh-dark-mode-only)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hexagonkt&show_icons=true&theme=default#gh-light-mode-only)
 
   <a href="https://stackexchange.com/users/946199/jamming">
-  <img
-       src="https://stackexchange.com/users/flair/946199.png"
-       width="208"
-       height="58"
-       alt="profile for jamming on Stack Exchange, a network of free, community-driven Q&amp;A sites"
-       title="profile for jamming on Stack Exchange, a network of free, community-driven Q&amp;A sites" />
+    <img
+      src="https://stackexchange.com/users/flair/946199.png"
+      width="208"
+      height="58"
+      alt="profile for jamming on Stack Exchange, a network of free, community-driven Q&amp;A sites"
+      title="profile for jamming on Stack Exchange, a network of free, community-driven Q&amp;A sites" />
   </a>
 </details>
