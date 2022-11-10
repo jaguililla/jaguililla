@@ -117,12 +117,11 @@ You can also find me in these other sites:
 <details>
   <summary>Stats</summary>
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaguililla&show_icons=true&theme=dark#gh-dark-mode-only)
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaguililla&show_icons=true&theme=default#gh-light-mode-only)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaguililla&show_icons=true&theme=transparent)
 
   <a href="https://stackexchange.com/users/946199/jamming">
     <img
-      src="https://stackexchange.com/users/flair/946199.png"
+      src="https://stackexchange.com/users/flair/946199.png?theme=dark"
       width="208"
       height="58"
       alt="profile for jamming on Stack Exchange, a network of free, community-driven Q&amp;A sites"
