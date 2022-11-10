@@ -120,9 +120,6 @@ You can also find me in these other sites:
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaguililla&show_icons=true&theme=dark#gh-dark-mode-only)
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaguililla&show_icons=true&theme=default#gh-light-mode-only)
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hexagonkt&show_icons=true&theme=dark#gh-dark-mode-only)
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hexagonkt&show_icons=true&theme=default#gh-light-mode-only)
-
   <a href="https://stackexchange.com/users/946199/jamming">
     <img
       src="https://stackexchange.com/users/flair/946199.png"
