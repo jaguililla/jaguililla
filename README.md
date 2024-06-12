@@ -17,7 +17,7 @@ You can also find me in these other sites:
 [Twitter]: https://twitter.com/jaguililla
 
 <details>
-  <summary>GPG</summary>
+  <summary>GPG (hexagonkt.com)</summary>
 
   ### GPG Key Proof
 
@@ -112,6 +112,56 @@ You can also find me in these other sites:
   And finally, I am proving ownership of the GitHub account by posting this in my personal repository.
 
   [Key]: https://keys.openpgp.org/search?q=project%40hexagonkt.com
+</details>
+
+<details>
+  <summary>GPG (hexagontk.com)</summary>
+
+  ### GPG Key Proof
+
+  I hereby claim:
+
+  * I am `jaguililla` [(Juanjo Aguililla) on GitHub](https://github.com/jaguililla).
+  * I have a public key (issued to `project@hexagontk.com`) whose fingerprint is:
+    [1FBCEA0384E730C76A69153AB1C94C2E85275907][key2]
+
+  To claim this, I am signing this public key (with the command: `gpg --armor --detach-sig hexagonkt_public.key`):
+
+  ```
+  -----BEGIN PGP PUBLIC KEY BLOCK-----
+
+  mDMEZmiZExYJKwYBBAHaRw8BAQdAH2SjzadZbWhpZXjfNjKHExB81TYTX6Dpqov5
+  u8m4noG0TUhleGFnb24gVG9vbGtpdCAoS2V5IHVzZWQgdG8gc2lnbiBwdWJsaXNo
+  ZWQgYmluYXJpZXMpIDxwcm9qZWN0QGhleGFnb250ay5jb20+iJMEExYKADsWIQQf
+  vOoDhOcwx2ppFTqxyUwuhSdZBwUCZmiZEwIbAwULCQgHAgIiAgYVCgkICwIEFgID
+  AQIeBwIXgAAKCRCxyUwuhSdZB6bmAP4o24ocscbPKyhlipTbqmURLrYj51PDEmxy
+  178UoadNyAD+J3D+lBRyJGihsleM8eoD4z9KdU6dnUG618fe4j6KnA64OARmaJkT
+  EgorBgEEAZdVAQUBAQdAEjqvSqz2sXrpOZJrVcj3k6h1vGBlBat9lv5bMt6HTngD
+  AQgHiHgEGBYKACAWIQQfvOoDhOcwx2ppFTqxyUwuhSdZBwUCZmiZEwIbDAAKCRCx
+  yUwuhSdZB2NxAP0Y0Rn3prIRUN6ecjL6cUlVPtc6cw955j6qhgBq0SjdKgD/eaY1
+  Qtq8BiGNS7ZVG4I/X30S81cvK8YuG88+DPgtgAk=
+  =u4rt
+  -----END PGP PUBLIC KEY BLOCK-----
+  ```
+
+  With the key [1FBCEA0384E730C76A69153AB1C94C2E85275907][key2],
+  yielding the signature:
+
+  ```
+  -----BEGIN PGP SIGNATURE-----
+
+  iHUEABYKAB0WIQQfvOoDhOcwx2ppFTqxyUwuhSdZBwUCZmn6rQAKCRCxyUwuhSdZ
+  B1vjAP9tNUhltEl8gEyXo0uC9DJhzQUwUTbgc2Uhrf7wT5lMuwD8CFu+IdXkM+Ov
+  5uHMhqDX2YC5K6SeP60ey4gMhw9xqwg=
+  =alzf
+  -----END PGP SIGNATURE-----
+  ```
+
+  This can be verified executing: `gpg --verify hexagonkt_public.key.asc hexagonkt_public.key`
+
+  And finally, I am proving ownership of the GitHub account by posting this in my personal repository.
+
+  [key2]: https://keyserver.ubuntu.com/pks/lookup?search=project%40hexagontk.com&op=index
 </details>
 
 <details>
