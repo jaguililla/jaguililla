@@ -8,7 +8,7 @@ You can also find me in these other sites:
 
 [Dev.to] | [LinkedIn] | [Reddit] | [Stack Overflow]
 
-[Hexagon Toolkit]: https://hexagonkt.com
+[Hexagon Toolkit]: https://hexagontk.com
 
 [Dev.to]: https://dev.to/jaguililla
 [LinkedIn]: https://www.linkedin.com/in/jaguililla
