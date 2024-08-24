@@ -123,41 +123,41 @@ You can also find me in these other sites:
 
   * I am `jaguililla` [(Juanjo Aguililla) on GitHub](https://github.com/jaguililla).
   * I have a public key (issued to `project@hexagontk.com`) whose fingerprint is:
-    [1FBCEA0384E730C76A69153AB1C94C2E85275907][key2]
+    [268363E34136BFA0AA6C8AE61902F0990E16E194][key2]
 
-  To claim this, I am signing this public key (with the command: `gpg --armor --detach-sig hexagonkt_public.key`):
+  To claim this, I am signing this public key (with the command: `gpg --armor --detach-sig project_hexagontk_com_public.key`):
 
   ```
   -----BEGIN PGP PUBLIC KEY BLOCK-----
 
-  mDMEZmiZExYJKwYBBAHaRw8BAQdAH2SjzadZbWhpZXjfNjKHExB81TYTX6Dpqov5
-  u8m4noG0TUhleGFnb24gVG9vbGtpdCAoS2V5IHVzZWQgdG8gc2lnbiBwdWJsaXNo
-  ZWQgYmluYXJpZXMpIDxwcm9qZWN0QGhleGFnb250ay5jb20+iJMEExYKADsWIQQf
-  vOoDhOcwx2ppFTqxyUwuhSdZBwUCZmiZEwIbAwULCQgHAgIiAgYVCgkICwIEFgID
-  AQIeBwIXgAAKCRCxyUwuhSdZB6bmAP4o24ocscbPKyhlipTbqmURLrYj51PDEmxy
-  178UoadNyAD+J3D+lBRyJGihsleM8eoD4z9KdU6dnUG618fe4j6KnA64OARmaJkT
-  EgorBgEEAZdVAQUBAQdAEjqvSqz2sXrpOZJrVcj3k6h1vGBlBat9lv5bMt6HTngD
-  AQgHiHgEGBYKACAWIQQfvOoDhOcwx2ppFTqxyUwuhSdZBwUCZmiZEwIbDAAKCRCx
-  yUwuhSdZB2NxAP0Y0Rn3prIRUN6ecjL6cUlVPtc6cw955j6qhgBq0SjdKgD/eaY1
-  Qtq8BiGNS7ZVG4I/X30S81cvK8YuG88+DPgtgAk=
-  =u4rt
+  mDMEZsmktBYJKwYBBAHaRw8BAQdA+qQWolc0jGotvU2l8WNpAYQxFmXsQ9RcGN6T
+  Ug0bwR+0TUhleGFnb24gVG9vbGtpdCAoS2V5IHVzZWQgdG8gc2lnbiBwdWJsaXNo
+  ZWQgYmluYXJpZXMpIDxwcm9qZWN0QGhleGFnb250ay5jb20+iJkEExYKAEEWIQQm
+  g2PjQTa/oKpsiuYZAvCZDhbhlAUCZsmktAIbAwUJBaOagAULCQgHAgIiAgYVCgkI
+  CwIEFgIDAQIeBwIXgAAKCRAZAvCZDhbhlCHRAP9A5YWugJIjw5G2vU+nZeSc0lSw
+  U8GV3THxMNhxHTIbfwEAuDeJaZIV5cOi3dppLJrBk+F2P3Ze2yYhpNddBwPJTgS4
+  OARmyaS0EgorBgEEAZdVAQUBAQdAjucR51AapG9ku4xtB/0DEYBevtmlKBwy9MLr
+  CTDoKzADAQgHiH4EGBYKACYWIQQmg2PjQTa/oKpsiuYZAvCZDhbhlAUCZsmktAIb
+  DAUJBaOagAAKCRAZAvCZDhbhlODNAP0fmkfWC2bzHNggkIQ/WBmJZnD8KPvTpHiQ
+  GBTirT686QEAicRsPlrCSEZ2VZFwSCFcpp3nh2+6+pKrep4GqILKzg4=
+  =ETAF
   -----END PGP PUBLIC KEY BLOCK-----
   ```
 
-  With the key [1FBCEA0384E730C76A69153AB1C94C2E85275907][key2],
+  With the key [268363E34136BFA0AA6C8AE61902F0990E16E194][key2],
   yielding the signature:
 
   ```
   -----BEGIN PGP SIGNATURE-----
 
-  iHUEABYKAB0WIQQfvOoDhOcwx2ppFTqxyUwuhSdZBwUCZmn6rQAKCRCxyUwuhSdZ
-  B1vjAP9tNUhltEl8gEyXo0uC9DJhzQUwUTbgc2Uhrf7wT5lMuwD8CFu+IdXkM+Ov
-  5uHMhqDX2YC5K6SeP60ey4gMhw9xqwg=
-  =alzf
+  iHUEABYKAB0WIQQmg2PjQTa/oKpsiuYZAvCZDhbhlAUCZsmrdQAKCRAZAvCZDhbh
+  lA69AP9akGePyfRzLZK+VqsvuSWw7q8It62csXP5G8H8GC9fygD+O8WJ1hG1PrSa
+  xzhY+6W4yMG2R4dOIiNCYHCoEHvgCAg=
+  =pMgH
   -----END PGP SIGNATURE-----
   ```
 
-  This can be verified executing: `gpg --verify hexagonkt_public.key.asc hexagonkt_public.key`
+  This can be verified executing: `gpg --verify project_hexagontk_com_public.key.asc project_hexagontk_com_public.key`
 
   And finally, I am proving ownership of the GitHub account by posting this in my personal repository.
 
